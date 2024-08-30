@@ -1,0 +1,68 @@
+Change Component DesignItemId : Designator=C1 Old DesignItemId=Cap Semi New DesignItemId=Cap Semi_1
+Change Component DesignItemId : Designator=C4 Old DesignItemId=Cap Semi New DesignItemId=Cap Semi_1
+Change Component DesignItemId : Designator=C5 Old DesignItemId=Cap Semi New DesignItemId=Cap Semi_1
+Change Component DesignItemId : Designator=C6 Old DesignItemId=Cap Semi New DesignItemId=Cap Semi_1
+Change Component DesignItemId : Designator=C7 Old DesignItemId=Cap Semi New DesignItemId=Cap Semi_1
+Change Component DesignItemId : Designator=C11 Old DesignItemId=Cap Semi New DesignItemId=Cap Semi_1
+Change Component DesignItemId : Designator=C8 Old DesignItemId=Cap Semi New DesignItemId=Cap Semi_1_1
+Change Component DesignItemId : Designator=C9 Old DesignItemId=Cap Semi New DesignItemId=Cap Semi_1_2
+Change Component DesignItemId : Designator=C10 Old DesignItemId=Cap Semi New DesignItemId=Cap Semi_1_3
+Change Component DesignItemId : Designator=C12 Old DesignItemId=Cap Semi New DesignItemId=Cap Semi_4
+Change Component DesignItemId : Designator=C13 Old DesignItemId=Cap Semi New DesignItemId=Cap Semi_4
+Change Component DesignItemId : Designator=C14 Old DesignItemId=Cap Semi New DesignItemId=Cap Semi_4
+Change Component DesignItemId : Designator=C15 Old DesignItemId=Cap Semi New DesignItemId=Cap Semi_4
+Change Component DesignItemId : Designator=C2 Old DesignItemId=Cap Semi New DesignItemId=Cap Semi_5
+Change Component DesignItemId : Designator=C3 Old DesignItemId=Cap Semi New DesignItemId=Cap Semi_6
+Change Component Footprint: Designator=C12 Old Footprint=0402 New Footprint=0402cap
+Change Component Footprint: Designator=C13 Old Footprint=0402 New Footprint=0402cap
+Change Component Footprint: Designator=C14 Old Footprint=0402 New Footprint=0402cap
+Change Component Footprint: Designator=C15 Old Footprint=0402 New Footprint=0402cap
+Change Component Footprint: Designator=C4 Old Footprint=1608[0603] New Footprint=1608[0603]cap
+Change Component Footprint: Designator=C5 Old Footprint=1608[0603] New Footprint=1608[0603]cap
+Change Component Footprint: Designator=C6 Old Footprint=1608[0603] New Footprint=1608[0603]cap
+Change Component Footprint: Designator=C7 Old Footprint=1608[0603] New Footprint=1608[0603]cap
+Change Component Footprint: Designator=C8 Old Footprint=1608[0603] New Footprint=1608[0603]cap
+Change Component Footprint: Designator=C9 Old Footprint=1608[0603] New Footprint=1608[0603]cap
+Change Component Footprint: Designator=C10 Old Footprint=1608[0603] New Footprint=1608[0603]cap
+Change Component Footprint: Designator=C11 Old Footprint=1608[0603] New Footprint=1608[0603]cap
+Change Component Footprint: Designator=C1 Old Footprint=C1206 New Footprint=1608[0603]cap
+Change Component Footprint: Designator=C2 Old Footprint=C1206 New Footprint=C1206tancap
+Change Component Footprint: Designator=C3 Old Footprint=C1206 New Footprint=C1206tancap
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X2H New Footprint=HDR1X2H3dbody
+Change Component Footprint: Designator=P3 Old Footprint=MHDR1X3 New Footprint=MHDR1X3body
+Change Component Footprint: Designator=P2 Old Footprint=MHDR1X4 New Footprint=MHDR1X4body
+Change Component Footprint: Designator=Y2 Old Footprint=R38 New Footprint=32768
+Change Component Footprint: Designator=S1 Old Footprint=SPST-2 New Footprint=SPST-2_body
+Change Component Comment : Designator=P1 Old Comment= New Comment=Battery Connection 9V
+Change Component Comment : Designator=C1 Old Comment=Cap Semi New Comment=Cap Semi_1
+Change Component Comment : Designator=C4 Old Comment=Cap Semi New Comment=Cap Semi_1
+Change Component Comment : Designator=C5 Old Comment=Cap Semi New Comment=Cap Semi_1
+Change Component Comment : Designator=C6 Old Comment=Cap Semi New Comment=Cap Semi_1
+Change Component Comment : Designator=C7 Old Comment=Cap Semi New Comment=Cap Semi_1
+Change Component Comment : Designator=C8 Old Comment=Cap Semi New Comment=Cap Semi_1
+Change Component Comment : Designator=C9 Old Comment=Cap Semi New Comment=Cap Semi_1
+Change Component Comment : Designator=C10 Old Comment=Cap Semi New Comment=Cap Semi_1
+Change Component Comment : Designator=C11 Old Comment=Cap Semi New Comment=Cap Semi_1
+Change Component Comment : Designator=C12 Old Comment=Cap Semi New Comment=Cap Semi_4
+Change Component Comment : Designator=C13 Old Comment=Cap Semi New Comment=Cap Semi_4
+Change Component Comment : Designator=C14 Old Comment=Cap Semi New Comment=Cap Semi_4
+Change Component Comment : Designator=C15 Old Comment=Cap Semi New Comment=Cap Semi_4
+Change Component Library : Designator=P2 Old Library=Miscellaneous Connectors.IntLib New Library=smartmcu.IntLib
+Change Component Library : Designator=P3 Old Library=Miscellaneous Connectors.IntLib New Library=smartmcu.IntLib
+Change Component Library : Designator=C1 Old Library=Miscellaneous Devices.IntLib New Library=smartmcu.IntLib
+Change Component Library : Designator=C2 Old Library=Miscellaneous Devices.IntLib New Library=smartmcu.IntLib
+Change Component Library : Designator=C3 Old Library=Miscellaneous Devices.IntLib New Library=smartmcu.IntLib
+Change Component Library : Designator=C4 Old Library=Miscellaneous Devices.IntLib New Library=smartmcu.IntLib
+Change Component Library : Designator=C5 Old Library=Miscellaneous Devices.IntLib New Library=smartmcu.IntLib
+Change Component Library : Designator=C6 Old Library=Miscellaneous Devices.IntLib New Library=smartmcu.IntLib
+Change Component Library : Designator=C7 Old Library=Miscellaneous Devices.IntLib New Library=smartmcu.IntLib
+Change Component Library : Designator=C8 Old Library=Miscellaneous Devices.IntLib New Library=smartmcu.IntLib
+Change Component Library : Designator=C9 Old Library=Miscellaneous Devices.IntLib New Library=smartmcu.IntLib
+Change Component Library : Designator=C10 Old Library=Miscellaneous Devices.IntLib New Library=smartmcu.IntLib
+Change Component Library : Designator=C11 Old Library=Miscellaneous Devices.IntLib New Library=smartmcu.IntLib
+Change Component Library : Designator=C12 Old Library=Miscellaneous Devices.IntLib New Library=smartmcu.IntLib
+Change Component Library : Designator=C13 Old Library=Miscellaneous Devices.IntLib New Library=smartmcu.IntLib
+Change Component Library : Designator=C14 Old Library=Miscellaneous Devices.IntLib New Library=smartmcu.IntLib
+Change Component Library : Designator=C15 Old Library=Miscellaneous Devices.IntLib New Library=smartmcu.IntLib
+Change Component Library : Designator=S1 Old Library=Miscellaneous Devices.IntLib New Library=smartmcu.IntLib
+Change Component Library : Designator=Y2 Old Library=Miscellaneous Devices.IntLib New Library=smartmcu.IntLib

@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=C1 Old DesignItemId=Cap Semi_1 New DesignItemId=Cap Semi_5
+Change Component Footprint: Designator=C1 Old Footprint=1608[0603]cap New Footprint=C1206tancap
+Change Component Comment : Designator=C1 Old Comment=Cap Semi_1 New Comment=tantalum cap
+Added Member To Class: ClassName=MCU Member=Component Y1 XTAL
